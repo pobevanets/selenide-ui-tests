@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HerokuAppTestSuite">
+    <listeners>
+        <!-- Allure listener for TestNG integration -->
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+
+    <test name="UI Tests">
+        <classes>
+            <class name="herokuapp.tests.LoginTests"/>
+            <class name="herokuapp.tests.DropdownTests"/>
+        </classes>
+    </test>
+</suite>

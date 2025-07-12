@@ -1,0 +1,1 @@
+{"uuid":"58bf3fb4-2a26-40ee-98a8-224b97da0596","name":"herokuapp.tests.BaseTest.setUp","children":["50e03786-ef38-4cb4-b603-5ca3da70d311"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1752319467289,"stop":1752319467289}],"afters":[],"start":1752319467289,"stop":1752319467289}
