@@ -51,3 +51,7 @@ desktop.ini
 
 # Kotlin-specific
 *.kotlin_module
+
+# Allure results and reports
+allure-results/
+allure-report/
